@@ -122,7 +122,7 @@ console.log("quotient: " , quotient);
  *   @param Datatype: Number `x`
  *   @return Datatype: String
  *
- * This function will return the string "Mariah Carey has been married `x` amount of times." Where `x` is the value when you invoke the function. Invoke this function using the variable `sum`. 
+ * This function will return the string "Mariah Carey has been married `x` amount of times." Where `x` is the value when you invoke the function. Invoke this function using the variable `daDiva`. 
  * Console.log your result.
 */
 
