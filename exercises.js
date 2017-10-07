@@ -146,16 +146,14 @@ console.log(testGreeting); // printing the output value of the function.
  * Console.log your result.  
 */
 
-
-
 /*
- * #10
- * Function - addThenSubtract
  * Declare three variables
- *
  *   @variable Datatype: Number `bango3`
  *   @variable Datatype: Number `bango4`
  *   @variable Datatype: Number `bango5`
+ 
+ * #10
+ * Function - addThenSubtract
  *   
  * Next, create a function named addThenSubtract which takes three parameters: `num1`, `num2`, `num3`.
  *
