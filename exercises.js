@@ -328,7 +328,7 @@ console.log(oneCap('always capitalize'));
  */
 
 function verifyDrinkingAge(age){
-	var personAge = 22;
+	var personAge = 20;
 	if (personAge >= 21){
 		return true;
 	}
@@ -345,6 +345,17 @@ console.log(canDrink);
  * Create a function named throwParty. This function will check the value stored in the `canDrink` variable in the previous exercise. If the value is true, it will return the message "Cheee Hoo! We going to da party!" If false, then it will return the message "Meh, see you at Starbucks." Store the return value to a variable named `canParty`. Console.log your result.
  */
 
+
+function throwParty(x){
+	if (x === true){
+		return 'Cheee Hoo! We going to da party!';
+	}
+	else {
+		return 'Meh, see you at Starbucks.';
+	}
+}
+var canParty = throwParty(canDrink);
+console.log(canParty);
 
 
 
